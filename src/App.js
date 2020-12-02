@@ -7,7 +7,7 @@ class App extends React.Component {
   render() {
     return (
       <form className="App-header">
-        <h1>Welcome!</h1>
+        <h1>Welcome User!</h1>
         <p>Enter Username:</p>
         <input
           type="text" placeholder="Username"
